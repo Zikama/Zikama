@@ -7,10 +7,10 @@
 
 ## My GitHub Stats &#x1f4c8;
 
-<a href="https://github.com/HassanBahati/HassanBahati">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HassanBahati&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/HassanBahati/Zikama">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zikama&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/HassanBahati">
+<a href="https://github.com/Zikama">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Zikama&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Zikama's GitHub Stats" />
 </a>
 <!---
