@@ -38,7 +38,6 @@
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/zikama)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/zikama)
 
-<details>
 <p align="center">
   <a href="https://github.com/zikama">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zikama&theme=transparent" />
